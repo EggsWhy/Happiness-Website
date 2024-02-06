@@ -1,0 +1,56 @@
+body{
+    background-image: url(/3_Media/smiling_background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.reviews{
+    background-image: url(/3_Media/reviews_background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+/* .hr{
+    height: 0.5vh;
+    background-color: white;
+} */
+
+
+img{
+    float: left;
+}
+
+.container{
+    border: hidden;
+    height: 51vh;
+}
+
+.container .info{
+    font-size: 1.2em;
+}
+
+
+footer{
+    bottom: 0px;
+}
+
+
+/* div{
+    height: 20px;
+    width: 100vw;
+    background-color: aqua;
+} */
+
+/* vh is viewport height. vw is viewport width */
+/* happy background image */
+
+
+
