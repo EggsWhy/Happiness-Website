@@ -1,5 +1,5 @@
 body{
-    background-image: url(Happiness Website/3_Media/rickroll_4k.jpg);
+    background-image: url("../3_Media/rickroll_4k.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
