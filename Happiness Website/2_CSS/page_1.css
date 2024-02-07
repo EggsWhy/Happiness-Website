@@ -2,6 +2,9 @@ body{
     text-align: center;
 }
 
+a{
+    text-decoration: none;
+}
 
 /* To put the links left and right */
 
