@@ -6,6 +6,10 @@ body{
     background-size: cover;
 }
 
+a{
+    text-decoration: none;
+}
+
 .reviews{
     background-image: url("../3_Media/reviews_background.png");
     background-repeat: no-repeat;
